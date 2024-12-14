@@ -1,0 +1,2 @@
+#define LED_CAPS_LOCK_PIN B7
+#define LED_PIN_ON_STATE 1
